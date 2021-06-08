@@ -8,11 +8,11 @@ Open terminal where you want to clone this project.
 
 Clone the repo
 
-git clone https://github.com/jobayer-rahman/django_poll_application.git
+'''git clone https://github.com/jobayer-rahman/django_poll_application.git'''
 
 Create Python virtual env
 
-## python3 -m venv venv
+python3 -m venv venv
 
 Activate virtual env
 
