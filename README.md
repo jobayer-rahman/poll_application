@@ -8,38 +8,38 @@ Open terminal where you want to clone this project.
 
 Clone the repo
 
-git clone https://github.com/jobayer-rahman/django_poll_application.git
+__git clone https://github.com/jobayer-rahman/django_poll_application.git__
 
 Create Python virtual env
 
-python3 -m venv venv
+__python3 -m venv venv__
 
 Activate virtual env
 
-source venv/bin/activate
+__source venv/bin/activate__
 
 Upgrade pip
 
-pip install --upgrade pip
+__pip install --upgrade pip__
 
 Install dependencies from requirements.txt
 
-pip install -r requirements.txt
+__pip install -r requirements.txt__
 
 Go to pollstar directory
 
-cd pollstar
+__cd pollstar__
 
 Migrate the database
 
-python manage.py migrate
+__python manage.py migrate__
 
 Create Super User. After giving this command it will prompt for username, password, email etc. Give this as you want.
 
-python manage.py createsuperuser
+__python manage.py createsuperuser__
 
 Start the development server
 
-python manage.py runserver
+__python manage.py runserver__
 
 Open this link http://127.0.0.1:8000/ on your browser. 
