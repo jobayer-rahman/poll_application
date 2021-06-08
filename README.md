@@ -11,10 +11,8 @@ Clone the repo
 git clone https://github.com/jobayer-rahman/django_poll_application.git
 
 Create Python virtual env
-'''
 
 python3 -m venv venv
-'''
 
 Activate virtual env
 
