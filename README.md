@@ -1,5 +1,4 @@
 # django_poll_application
-
 It is a simple poll application using django
 
 # Installing
