@@ -1,5 +1,5 @@
 # django_poll_application
-It is a simple poll application using django
+Poll application to create polls and participate in polls which interested in.
 
 # Installing
 
